@@ -48,8 +48,8 @@ Each day's folder contains:
 
 | Day | Problem | Topic | Status |
 |----|---------|-------|--------|
-| Day 01 | Coming Soon | DSA | 🔄 In Progress |
-| Day 02 | Coming Soon | DSA | ⏳ Pending |
+| Day 01 | Coming Soon | DSA | 🔄 completed |
+| Day 02 | Coming Soon | DSA | 🔄 completed |
 | Day 03 | Coming Soon | DSA | ⏳ Pending |
 
 
