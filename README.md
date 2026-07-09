@@ -123,3 +123,27 @@ Let's grow together as problem solvers 🚀
 ---
 
 ### "Code. Learn. Improve. Repeat. 💙"
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+<!---LeetCode Topics End-->
