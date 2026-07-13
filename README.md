@@ -156,4 +156,8 @@ Let's grow together as problem solvers 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
