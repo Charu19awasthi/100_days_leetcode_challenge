@@ -160,4 +160,12 @@ Let's grow together as problem solvers 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/1291-sequential-digits/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
