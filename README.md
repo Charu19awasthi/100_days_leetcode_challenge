@@ -129,15 +129,18 @@ Let's grow together as problem solvers 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -164,11 +167,13 @@ Let's grow together as problem solvers 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -183,4 +188,16 @@ Let's grow together as problem solvers 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Charu19awasthi/100_days_leetcode_challenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
